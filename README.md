@@ -1,5 +1,5 @@
 # Light control system for greenhouses
 
-Embedded system project for a light level control system using LDR and Raspberry pi 3 as main base.
+An embedded system project that observe light level with an LDR on a Raspberry Pi 3 and send warning E-Mail to user when an anomaly detected.
 
 with Teoman Turan: https://github.com/teoser99
